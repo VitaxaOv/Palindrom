@@ -40,5 +40,7 @@ bool CheckOnPalindrome(int number)
         array[array.Length - 1 - i]; // с конца в начало.
         // нужно проверить что это палиндром.
     }
+
+    return true;
 }
 
